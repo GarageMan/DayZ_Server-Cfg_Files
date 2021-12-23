@@ -27,6 +27,8 @@
 		<tag name="floor"/>
 		<tag name="shelves"/>
 		<tag name="ground"/>
+		<tag name="seaice" />
+		<tag name="seasonalevent" />
 	</tags>
 	<usageflags>
 		<usage name="Military"/>
