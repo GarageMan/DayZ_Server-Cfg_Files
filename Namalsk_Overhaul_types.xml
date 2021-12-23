@@ -3995,8 +3995,7 @@
 		<tag name="fishing" />
 		<usage name="Coast" />
 		<value name="" />
-	</type
-	
+	</type>	
 	<type name="GiftBox_Large_1">
 		<nominal>3</nominal>
 		<min>2</min>
