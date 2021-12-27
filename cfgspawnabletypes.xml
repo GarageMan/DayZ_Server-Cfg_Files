@@ -1,0 +1,144 @@
+<!-- CJ187-MoreItems START -->
+<!-- spawn list created by Garageman -->
+	<type name="Motorola">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Motorola_2">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Motorola_3">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Motorola_4">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Motorola_5">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="WalkieTalkie">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Falcon3_Radio">
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="TacSatRadio">
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="TacSatBattery">
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="FirstAidKit_Grizzly">
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="FirstAidKit_Car">
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="Army_FirstAidKit">
+		<tag name="shelves" />
+		<cargo chance="1">
+			<item name="AMS_Bandage" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SamSplint" />
+		</cargo>
+		<cargo chance="0.8">
+			<item name="AMS_Absorbent" />
+		</cargo>
+		<cargo chance="0.8">
+			<item name="AMS_Absorbent" />
+		</cargo>
+		<cargo chance="0.6">
+			<item name="AMS_BandageTape" />
+		</cargo>
+		<cargo chance="0.7">
+			<item name="AMS_AntiSept" />
+		</cargo>
+	</type>
+	<type name="GardenLime_1">
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="GardenLime_2">
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="GardenLime_3">
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="GardenLime_4">
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="SamSplint">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="FieldBandageDressing">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="Toiletpaper">
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="Battery9V_1">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Battery9V_2">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Battery9V_3">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Battery9V_4">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Pliers_Red">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Pliers_Yellow">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Sparkplug_Box_1">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Sparkplug_Box_2">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="VanishSpray">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="ToolsRepairKit">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="Screwdriver_2">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="WD40">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="PetrolLighter">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="WD40_2">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="ButaneCanister">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+<!-- CJ187-MoreItems END -->
