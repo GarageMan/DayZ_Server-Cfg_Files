@@ -1,3 +1,6 @@
+<!-- Please double check your cfgrandompresets.xml for the existence of the used presets (like "foodVillage"). 				-->
+<!-- If some of these presets do not exist so please us "Village", "Industrial", "Military", etc. to prevent your server from crashing 	-->
+
 <!-- CJ187-MoreItems START -->
 <!-- spawn list created by Garageman -->
 	<type name="Motorola">
